@@ -1,0 +1,24 @@
+C:\Users\anandhu.girish\source\repos\SplitTheBill\bin\Debug\net6.0\SplitTheBill.deps.json
+C:\Users\anandhu.girish\source\repos\SplitTheBill\bin\Debug\net6.0\SplitTheBill.dll
+C:\Users\anandhu.girish\source\repos\SplitTheBill\bin\Debug\net6.0\SplitTheBill.pdb
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.csproj.AssemblyReference.cache
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.AssemblyInfoInputs.cache
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.AssemblyInfo.cs
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.csproj.CoreCompileInputs.cache
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.dll
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\refint\SplitTheBill.dll
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\SplitTheBill.pdb
+C:\Users\anandhu.girish\source\repos\SplitTheBill\obj\Debug\net6.0\ref\SplitTheBill.dll
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\bin\Debug\net6.0\SplitTheBill.deps.json
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\bin\Debug\net6.0\SplitTheBill.dll
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\bin\Debug\net6.0\SplitTheBill.pdb
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.csproj.AssemblyReference.cache
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.AssemblyInfoInputs.cache
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.AssemblyInfo.cs
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.csproj.CoreCompileInputs.cache
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.dll
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\refint\SplitTheBill.dll
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\SplitTheBill.pdb
+C:\Users\Jobin K Jose\Downloads\SplitTheBillProject\SplitTheBill\obj\Debug\net6.0\ref\SplitTheBill.dll
